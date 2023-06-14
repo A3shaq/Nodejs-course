@@ -1,0 +1,7 @@
+SAVE ON EDIT PAGE
+REMOVE ALERT MSG
+DISABLE DOWNLOAD QUOTE BEFORE SAVE billing AT FIRST
+Remove payment terms from pdf/UI
+
+Reply to this email directly, view it on GitHub, or unsubscribe.
+You are receiving this because you authored the thread
